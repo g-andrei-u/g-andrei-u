@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1>👋🏻 Hi there, I’m Andrei Udeanu! 👩🏻‍💻</h1>
+<h1>👋🏻 Hi there, I’m Andrei Udeanu!</h1>
 
 - 🔭 I’m currently looking for a great team to join
 - 👀 I’m also interested in history, philosophy, poems and more
