@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently looking for a great team to join
 - 👀 I’m also interested in history, philosophy, poems and more
-- 🌱 I’m currently learning <b>Vue.js</b>
+- 🌱 I’m currently learning <b>PHP</b>
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 Always looking for advice
 - 🌍 Languages spoken: English, Romanian, Spanish
