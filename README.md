@@ -23,3 +23,5 @@ Here are some ideas to get you started:
 - 🌍 Languages spoken: English, Romanian, Spanish
 - 📫 How to reach me: udeanugheorgheandrei@gmail.com
 - 👉🏻 Visit my LinkedIn profile: https://www.linkedin.com/in/andrei-udeanu/
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=g-andrei-u&theme=radical)
