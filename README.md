@@ -24,6 +24,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: udeanugheorgheandrei@gmail.com
 - 👉🏻 Visit my LinkedIn profile: https://www.linkedin.com/in/andrei-udeanu/
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=g-andrei-u&theme=radical)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g-andrei-u)](https://github.com/g-andrei-u/github-readme-stats)
