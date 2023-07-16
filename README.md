@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently looking for a great team to join
 - 👀 I’m also interested in history, philosophy, poems and more
 - 🌱 I’m currently learning <b>Laravel</b>
-- 👯 I’m looking to collaborate on open source projects
-- 🤔 Always looking for advice
+- 😄 Check out my portfolio here: https://andrei-udeanu.netlify.app/
 - 🌍 Languages spoken: English, Romanian, Spanish
 - 📫 How to reach me: udeanugheorgheandrei@gmail.com
 - 👉🏻 Visit my LinkedIn profile: https://www.linkedin.com/in/andrei-udeanu/
